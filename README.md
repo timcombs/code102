@@ -1,6 +1,6 @@
 # Code 102: Fundamentals of Code
 
-Welcome to Code 102! We're going to spend four nights ramping you up so that when you hit the Code 201 course you're poised for success.
+Welcome to Code 102! We're going to spend four nights ramping you up so that when you hit the Code 201 course, you're poised for success.
 
 ## Class Schedule
 * [Monday](schedule/monday.md)
@@ -10,3 +10,6 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
+* [Easy Bash PS1 Prompt Generator](https://ezprompt.net)
+* [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
