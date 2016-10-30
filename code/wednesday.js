@@ -13,7 +13,7 @@ if (day == 'Wednesday') {
 
 // Equals thrice, test once
 if (day === 'Wednesday') {
-  console.log('Test 2: Huh. It\'s ' + day);
+  console.log('Test 3: Huh. It\'s ' + day);
 }
 
 // TODO: After commenting out the 3 conditionals above,
