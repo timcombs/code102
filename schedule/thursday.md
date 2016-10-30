@@ -19,6 +19,7 @@
 * 6:30pm - Functions & console.log
 * 7:30pm - Prework
 * 8:00pm - Editing & Debugging with Chrome Browser Tools
+ * *In Your Textbook:* JavaScript & jQuery (Duckett), pages 464 - 479
  * Editing HTML in place
  * Editing CSS in place
  * Basic JavaScript debugging

@@ -10,6 +10,11 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
-* [Easy Bash PS1 Prompt Generator](https://ezprompt.net)
-* [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
+* Visual Studio Code
+  * [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
+  * [VS Code Key Bindings](http://www.hongkiat.com/blog/key-binding-management-visual-studio-code/)
+* Bash
+  * [Easy Bash PS1 Prompt Generator](https://ezprompt.net)
+  * [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
+* Git
+  * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
