@@ -10,3 +10,4 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
