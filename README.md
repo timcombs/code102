@@ -1,6 +1,6 @@
 # Code 102: Fundamentals of Code
 
-Welcome to Code 102! We're going to spend four nights ramping you up so that when you hit the Code 201 course you're poised for success.
+Welcome to Code 102! This week we're going to dive into the basics of code, including how to use Git, what variables and functions are, and how to work with Chrome browser tools.
 
 ## Class Schedule
 * [Monday](schedule/monday.md)
