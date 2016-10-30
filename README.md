@@ -1,6 +1,6 @@
 # Code 102: Fundamentals of Code
 
-Welcome to Code 102! We're going to spend four nights ramping you up so that when you hit the Code 201 course you're poised for success.
+Welcome to Code 102! We're going to spend 4 nights learning the basics of code so that when you hit the Code 201 course you're poised for success.
 
 ## Class Schedule
 * [Monday](schedule/monday.md)
