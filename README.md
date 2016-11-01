@@ -1,6 +1,6 @@
 # Code 102: Fundamentals of Code
 
-Welcome to Code 102! We're going to spend four nights ramping you up so that when you hit the Code 201 course you're poised for success.
+Welcome to Code 102! We're going to spend four nights ramping you up so that when you hit the Code 201 course, you're poised for success.
 
 ## Class Schedule
 * [Monday](schedule/monday.md)
@@ -10,4 +10,12 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* Visual Studio Code
+  * [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
+  * [VS Code Key Bindings](http://www.hongkiat.com/blog/key-binding-management-visual-studio-code/)
+* Bash
+  * [Easy Bash PS1 Prompt Generator](https://ezprompt.net)
+  * [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
+  * [Sample Bash Aliases file](code/bash_aliases.md))
+* Git
+  * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
