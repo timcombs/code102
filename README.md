@@ -12,7 +12,6 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 * Keyboard Shortcuts
  * [Mac](http://www.danrodney.com/mac/)
  * [Windows](http://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * Visual Studio Code
   * [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
   * [VS Code Key Bindings](http://www.hongkiat.com/blog/key-binding-management-visual-studio-code/)
@@ -22,3 +21,4 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
   * [Sample Bash Aliases file](code/bash_aliases.md))
 * Git
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
