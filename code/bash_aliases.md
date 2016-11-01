@@ -1,4 +1,5 @@
-Copy the large text block below to your home directory as `.bash_aliases`, then add the following small block to your `.bashrc` file.
+
+Copy the following small block to your `.bashrc` file:
 
 ``` bash
 if [ -f ~/.bash_aliases ]; then
@@ -6,8 +7,8 @@ if [ -f ~/.bash_aliases ]; then
 fi
 ```
 
+Copy the large text block below to your home directory as `.bash_aliases`, then type `source ~/.bashrc` to reload the file.
 
-`.bash_aliases:``
 ``` bash
 #
 # directory aliases
