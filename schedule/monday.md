@@ -9,11 +9,10 @@
    * git add -p
    * git commit -m "Add good commit message"
  * Push *at the end of the night*
-* 7:00pm - Your Computer is Your Dev Tool
+* 7:45pm - Your Computer is Your Dev Tool
  * Learn common keyboard shortcuts
  * Think about how to optimize your dev tools
  * Meet the Chrome browser tools
-* 7:30pm - Prework
 * 8:30pm - Recap, Q&A
 
 [Back to main README](/README.md)
