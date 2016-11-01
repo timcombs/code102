@@ -18,7 +18,7 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 * Bash
   * [Easy Bash PS1 Prompt Generator](https://ezprompt.net)
   * [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
-  * [Sample Bash Aliases file](code/bash_aliases.md))
+  * [Sample Bash Aliases file](code/bash_aliases.md)
 * Git
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
