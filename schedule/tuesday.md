@@ -7,6 +7,7 @@
  * Add a new file: tuesday.md
  * At the end of night we'll merge this branch back into master
 * 6:15pm - Variables
+ * Use [code/tuesday.html](code/tuesday.html) and [code/tuesday.js](code/tuesday.js)
 * 6:30pm - Syntax
 * 7:00pm - Prework
 * 8:00pm - Using the Console in Chrome Browser Tools

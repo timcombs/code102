@@ -9,7 +9,12 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 * [Thursday](schedule/thursday.md)
 
 ## Resources
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* Keyboard Shortcuts
+ * [Mac](http://www.danrodney.com/mac/)
+ * [Windows](http://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/)
+* Text Editors
+ * [The Basics of vi](http://www.bsdguides.org/2004/the-basics-of-vi/)
+ * [The Basics of nano](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
 * Visual Studio Code
   * [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
   * [VS Code Key Bindings](http://www.hongkiat.com/blog/key-binding-management-visual-studio-code/)
@@ -19,5 +24,4 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
   * [Sample Bash Aliases file](code/bash_aliases.md)
 * Git
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
-* vi
-  * [Beginner's Guide to vi ('vee eye', not 'vye')](http://www.howtogeek.com/102468/a-beginners-guide-to-editing-text-files-with-vi/)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
