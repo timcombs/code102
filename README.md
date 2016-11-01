@@ -9,6 +9,9 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
 * [Thursday](schedule/thursday.md)
 
 ## Resources
+* Keyboard Shortcuts
+ * [Mac](http://www.danrodney.com/mac/)
+ * [Windows](http://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * Visual Studio Code
   * [The Basics of Visual Studio Code](https://code.visualstudio.com/Docs/editor/codebasics)
