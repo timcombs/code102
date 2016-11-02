@@ -29,6 +29,9 @@ var numberString = '1';
 // console.log('the variable numberString contains: ' + numberString);
 
 // TODO: What if we look at these in the console?
+// In the console, type:
+// number
+// numberString
 
 // console.log('the type of variable number is: ' + typeof number);
 // console.log('the type of variable numberString is: ' + typeof numberString);
