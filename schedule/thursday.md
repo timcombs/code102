@@ -17,7 +17,7 @@
   * Merge feature/thursday into master and look at merge conflict
   * How to resolve a merge conflict
 * 6:30pm - Functions & console.log
- * Use [code/thursday.html](code/thursday.html) and [code/thursday.js](code/thursday.js)
+ * Use [code/thursday.html](/code/thursday.html) and [code/thursday.js](/code/thursday.js)
  * Want to play with other forms of functions? Check out this [gist on the evolution of an IIFE](https://gist.github.com/bethadele/85621c52d9c454fdd258ec67e4279ea2)
 * 7:30pm - Prework
 * 8:00pm - Editing & Debugging with Chrome Browser Tools
