@@ -23,7 +23,7 @@ alias cd..='cd ..'
 # git aliases
 #
 
-alias ga='git add --all'
+alias ga='git add'
 alias gc='git commit -m'
 alias gpo='git push origin'
 alias gs='git status'
@@ -32,7 +32,7 @@ alias gs='git status'
 #
 # class-centric aliases
 #
-# Set this to the full directory where your Code 201 classwork exists
+# change this to the full directory where your Code 201 classwork exists
 
 alias 201='cd ~/Documents/Code201/labwork'
 
@@ -40,7 +40,7 @@ alias 201='cd ~/Documents/Code201/labwork'
 # bash management aliases
 #
 
-alias edbash='nano ~/.bashrc'
-alias edal='nano ~/.bash_aliases'
+alias edbash='vi ~/.bashrc'
+alias edal='vi ~/.bash_aliases'
 alias newdot='source ~/.bashrc'
 ```
