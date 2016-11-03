@@ -23,5 +23,6 @@ Welcome to Code 102! We're going to spend four nights ramping you up so that whe
   * [Bash Guide for Beginners](http://tille.garrels.be/training/bash/)
   * [Sample Bash Aliases file](code/bash_aliases.md)
 * Git
+  * [Git Documentation](https://git-scm.com/docs)
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
