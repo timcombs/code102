@@ -1,7 +1,5 @@
 This directory is where you can store your personal notes for the class.
 
-The first couple of days, you won't be able to push your changes to the repo, but that's okay -- we'll solve that conundrum on Wednesday!
-
 If you put a file in the wrong place and commit it to the repo, here's how to recover:
 ```
 git mv path/to/old/file.md path/to/new/file.md
