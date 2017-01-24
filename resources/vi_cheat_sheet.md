@@ -21,7 +21,7 @@ cmd | description
 -|-
 arrow keys | move cursor around the file
 h,j,k,l | move cursor left, down, up, right, respectively
-*n*G | move to line *n* ex:  1G moves to beginning of file
+*n*G | move to line *n*.  ex:  1G moves to beginning of file
 G | without a number, G moves to end of file
 0 (zero) | move to beginning of line
 $ | move to end of line
@@ -35,4 +35,3 @@ cmd | description
 :wq, :x, ZZ | write changes and quit
 
 Note that in many cases, there are a number of commands that do the same thing.
-
