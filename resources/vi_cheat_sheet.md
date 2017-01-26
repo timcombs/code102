@@ -6,7 +6,7 @@ There are two modes in vi.  When you start the program, it will begin in command
 
 ##### common commands to switch between modes
 | cmd | description |
-| -|- |
+|---|---|
 | i | insert mode right at cursor |
 | I | insert mode at beginning of line |
 | a | insert mode after cursor |
@@ -18,7 +18,7 @@ There are two modes in vi.  When you start the program, it will begin in command
 ##### common commands in command mode
 
 | cmd | description |
-| -|- |
+|----|----|
 | arrow keys | move cursor around the file |
 | h,j,k,l | move cursor left, down, up, right, respectively |
 | *n*G | move to line *n*.  ex:  1G moves to beginning of file |
@@ -29,7 +29,7 @@ There are two modes in vi.  When you start the program, it will begin in command
 
 ##### how to quit vi
 | cmd | description |
-| -|- |
+|---|---|
 | :q | quit without saving |
 | :w | write changes without exiting |
 | :wq, :x, ZZ | write changes and quit |
